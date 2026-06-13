@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Reviewed security headers configuration
 - Reviewed open issues, added labels
+
+## 2026-06-13
+- Drafted initial implementation plan for v2
+- Updated license year
+- Cross-checked behaviour against spec
